@@ -6,3 +6,5 @@ def my_each(array) do |name|
     i = i + 1
   end
 end
+
+def my_each(["Tim", "Tom", "Jim"])
